@@ -1,88 +1,88 @@
 # Breno Fraga dos Anjos
 
-Computer Scientist focused on **Data Engineering, Artificial Intelligence, Cloud Computing, and Software Engineering**.
+Cientista da Computação com foco em **Engenharia de Dados, Inteligência Artificial, Computação em Nuvem e Engenharia de Software**.
 
-I build projects that connect data processing, automation, APIs, machine learning, and software development.
+Desenvolvo projetos que conectam processamento de dados, automação, APIs, Machine Learning e desenvolvimento de software.
 
-## Focus
+## Áreas de interesse
 
-- Data Engineering and analytics
-- Machine Learning and applied AI
-- Generative AI integrations
-- Cloud and infrastructure fundamentals
-- Python automation
-- Backend and software engineering
+- Engenharia de Dados e análise de dados
+- Machine Learning e IA aplicada
+- integrações com IA generativa
+- computação em nuvem e fundamentos de infraestrutura
+- automação com Python
+- backend e Engenharia de Software
 
-## Featured projects
+## Projetos em destaque
 
-### Medical Ethics Survey — Data Analysis
+### Pesquisa sobre Ética Médica — Análise de Dados
 
-Real-world academic research dataset analyzed with Python and Jupyter.
+Análise de um conjunto de dados real de pesquisa acadêmica utilizando Python e Jupyter.
 
-**Skills:** exploratory data analysis, research data, Pandas, notebooks, data interpretation.
+**Competências:** análise exploratória, Pandas, notebooks, interpretação de dados e contexto científico.
 
-[View repository](https://github.com/BrenoFragaDosAnjos/projeto-priscila)
+[Ver repositório](https://github.com/BrenoFragaDosAnjos/projeto-priscila)
 
-### Brain Tumor MRI Classifier
+### Classificador de Tumor Cerebral em Ressonância Magnética
 
-Computer-vision proof of concept for classifying MRI images with a Streamlit interface and model inference pipeline.
+Prova de conceito de visão computacional para classificação de imagens de RMI com interface em Streamlit.
 
-**Skills:** Python, TensorFlow Lite, PyTorch experimentation, Streamlit, image preprocessing.
+**Competências:** Python, TensorFlow Lite, experimentos com PyTorch, Streamlit e pré-processamento de imagens.
 
-[View repository](https://github.com/BrenoFragaDosAnjos/poc-tumor)
+[Ver repositório](https://github.com/BrenoFragaDosAnjos/poc-tumor)
 
-### Data Pipeline with Python
+### Pipeline de Dados com Python
 
-Pipeline that combines CSV and JSON sources and organizes data into raw and refined layers.
+Pipeline que combina fontes CSV e JSON e organiza os dados em camadas de dados brutos e refinados.
 
-**Skills:** Python, Pandas, ETL concepts, data transformation, OOP.
+**Competências:** Python, Pandas, conceitos de ETL, transformação de dados e programação orientada a objetos.
 
-[View repository](https://github.com/BrenoFragaDosAnjos/Pipeline-de-dados-combinando-Python-e-orienta-o-a-objeto)
+[Ver repositório](https://github.com/BrenoFragaDosAnjos/Pipeline-de-dados-combinando-Python-e-orienta-o-a-objeto)
 
 ### Filmes App
 
-Native Android application consuming the TMDB REST API using Kotlin and MVVM.
+Aplicativo Android nativo que consome a API REST do TMDB utilizando Kotlin e arquitetura MVVM.
 
-**Skills:** Kotlin, Android, REST APIs, MVVM, Retrofit, software architecture.
+**Competências:** Kotlin, Android, APIs REST, MVVM, Retrofit e arquitetura de software.
 
-[View repository](https://github.com/BrenoFragaDosAnjos/FilmesApp)
+[Ver repositório](https://github.com/BrenoFragaDosAnjos/FilmesApp)
 
-## Current engineering work
+## Projetos em desenvolvimento
 
-I am also developing projects involving:
+Também desenvolvo projetos envolvendo:
 
-- AI-assisted productivity automation;
-- Notion API integrations;
+- automações de produtividade com IA;
+- integração com API do Notion;
 - GitHub Actions;
-- cloud infrastructure;
-- data pipelines;
-- applied machine learning.
+- infraestrutura em nuvem;
+- pipelines de dados;
+- Machine Learning aplicado.
 
-## Tech stack
+## Stack técnica
 
-### Data & AI
+### Dados e IA
 
 Python · Pandas · NumPy · Jupyter · Apache Spark · Machine Learning
 
-### Databases
+### Bancos de dados
 
 SQL · Oracle · MySQL
 
-### Software
+### Desenvolvimento de software
 
-Java · Kotlin · JavaScript · Git · Linux · REST APIs
+Java · Kotlin · JavaScript · Git · Linux · APIs REST
 
-### Cloud & automation
+### Cloud e automação
 
-GitHub Actions · Docker fundamentals · cloud infrastructure studies · API integrations
+GitHub Actions · fundamentos de Docker · fundamentos de infraestrutura em nuvem · integrações com APIs
 
-## Background
+## Formação e perfil técnico
 
-- Computer Science graduate
-- Experience with Python, databases, data analysis, and software projects
-- Interested in building production-oriented projects that combine software, data, and AI
+- graduação em Ciência da Computação;
+- experiência com Python, bancos de dados, análise de dados e desenvolvimento de software;
+- interesse em construir projetos aplicados que integrem software, dados, IA e infraestrutura.
 
-## Contact
+## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/breno-fraga-4904a318b/)
 - Email: breno.anjos.bf@gmail.com
